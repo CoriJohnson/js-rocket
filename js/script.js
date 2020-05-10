@@ -5,7 +5,7 @@ var doCoolStuff = function () {
   } else {
     document.getElementById('cool').className = 'cool';
   }
-}
+};
 
 var car = {
   make: 'VW',
